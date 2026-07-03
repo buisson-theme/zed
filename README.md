@@ -8,7 +8,7 @@
 
 [Palette](#palette) · [Installation](#installation) · [Accessibility](#accessibility)
 
-<img width="100%" src="https://raw.githubusercontent.com/buisson-theme/buisson-zed/main/assets/separator.png" />
+<img width="60%" src="https://raw.githubusercontent.com/buisson-theme/buisson-zed/main/assets/separator.png" />
 
 <img src="https://raw.githubusercontent.com/buisson-theme/buisson-zed/main/assets/zed-dark.png" alt="Buisson Dark" width="49%" />
 <img src="https://raw.githubusercontent.com/buisson-theme/buisson-zed/main/assets/zed-light.png" alt="Buisson Light" width="49%" />
